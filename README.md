@@ -5,4 +5,4 @@ This type of test have different category like RBS, Lipid profile, LS Spine, Pre
 Since bill processing for every patient with these types of tests requires paper work and is very error prone,
 I am offering this application to process it automatically from their side.
 This system also provide all the information of patient and their paid amount, unpaid amount. 
-After all this system provides total scenario of monthly or yearly total test, their income and due amount.
+After all this system provides total scenario of monthly or yearly total test, their income and due amount.In this Project I used Asp.Net Web Form for server side and Html, Css, JavaScript, jQuery for client side control and also itextsharp for pdf generator.
